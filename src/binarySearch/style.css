@@ -1,0 +1,10 @@
+#container-text{
+    height: 200px;
+    width: 600px;
+    align-items: center;
+    text-align: center;
+    background-size: auto;
+    border: 5px solid black;
+    margin: 10px;
+
+}
